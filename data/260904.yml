@@ -7,7 +7,7 @@ about:
   head: 33048dc
   archived: false
   latestVersion: v3.1.1
-  collectedAt: 2026-09-04T19:34:42Z
+  collectedAt: 2026-09-04T20:58:13Z
 timeline:
   created: 2017-09-06
   lastCommit: 2026-08-14
@@ -87,5 +87,78 @@ total:
   openIssue: 5
   commit: 540
 ---
+path: /home/runner/.x-repo/github.com/gobackup/gobackup
+collectedAt: 2026-09-04T20:58:14Z
+loc:
+  Go:
+    code: 8144
+    comments: 615
+    blanks: 1706
+    files: 94
+  Json:
+    code: 4890
+    comments: 0
+    blanks: 0
+    files: 4
+  Tsx:
+    code: 351
+    comments: 6
+    blanks: 33
+    files: 6
+  Yaml:
+    code: 301
+    comments: 6
+    blanks: 0
+    files: 12
+  Dockerfile:
+    code: 81
+    comments: 10
+    blanks: 7
+    files: 1
+  Sass:
+    code: 65
+    comments: 0
+    blanks: 17
+    files: 1
+  Sh:
+    code: 57
+    comments: 4
+    blanks: 18
+    files: 2
+  JavaScript:
+    code: 22
+    comments: 1
+    blanks: 0
+    files: 2
+  Makefile:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 14
+    comments: 0
+    blanks: 3
+    files: 1
+  TypeScript:
+    code: 14
+    comments: 2
+    blanks: 1
+    files: 2
+  Svg:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 261
+    blanks: 108
+    files: 5
+total:
+  code: 13999
+  comments: 907
+  blanks: 1899
+  files: 132
 ---
 

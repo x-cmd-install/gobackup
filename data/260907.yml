@@ -5,13 +5,13 @@ about:
   head: 33048dc
   archived: false
   latestVersion: "v3.1.1"
-  collectedAt: 2026-09-07T06:07:25Z
+  collectedAt: 2026-09-07T18:26:31Z
 timeline:
   created: 2017-09-06
   lastCommit: 2026-08-14
   lastRelease: 2026-07-06
 popularity:
-  star: 2944
+  star: 2945
   watcher: 27
   fork: 328
   release: 75
@@ -36,7 +36,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last60d:
     since: 2026-07-09
     release: 0
@@ -44,7 +44,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 1
   last90d:
     since: 2026-06-09
     release: 1
@@ -52,7 +52,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 3
   last180d:
     since: 2026-03-11
     release: 2
@@ -60,7 +60,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 2
-    commit: 0
+    commit: 3
   last360d:
     since: 2025-09-12
     release: 5
@@ -68,7 +68,7 @@ recent:
     openPR: 0
     closedIssue: 18
     openIssue: 2
-    commit: 0
+    commit: 26
   last720d:
     since: 2024-09-17
     release: 12
@@ -86,7 +86,7 @@ total:
   commit: 540
 ---
 path: /home/runner/.x-repo/github.com/gobackup/gobackup
-collectedAt: 2026-09-07T06:07:27Z
+collectedAt: 2026-09-07T18:26:32Z
 loc:
   Go:
     code: 8144
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:07:28+00:00
+  collectedAt: 2026-09-07T18:26:32+00:00
   platform:
     darwin/arm64:
       name:  gobackup-darwin-arm64.tar.gz

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11756014,
       "digest": "sha256:5f27a429482346047df91033ed5182c3143c79b079e7e139150e12b51879ea9a",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-07-06T06:34:01Z",
       "updated_at": "2026-07-06T06:34:02Z",
       "browser_download_url": "https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11030524,
       "digest": "sha256:0ef13d45265186ddbd49ba896684a66ea94cf29bdf229abc0990dfb13bbdb745",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-07-06T06:34:01Z",
       "updated_at": "2026-07-06T06:34:02Z",
       "browser_download_url": "https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11519558,
       "digest": "sha256:d4ec264c2f266742aa370e90a1666535917de0207bd908786823415fce4924c6",
-      "download_count": 524,
+      "download_count": 529,
       "created_at": "2026-07-06T06:34:01Z",
       "updated_at": "2026-07-06T06:34:02Z",
       "browser_download_url": "https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10549707,
       "digest": "sha256:517eda21d4e56e0faa0e15c110d395d83fe987bfce26eaab81cee81fe55ff9f8",
-      "download_count": 89,
+      "download_count": 91,
       "created_at": "2026-07-06T06:34:01Z",
       "updated_at": "2026-07-06T06:34:02Z",
       "browser_download_url": "https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-linux-arm64.tar.gz"

@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.1.1"
   latestRelease: "v3.1.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:08:11Z
+  collectedAt: 2026-09-11T18:55:04Z
 timeline:
   created: 2017-09-06
   lastCommit: 2026-08-14
@@ -90,7 +90,7 @@ total:
   commit: 540
 ---
 path: /home/runner/.x-repo/github.com/gobackup/gobackup
-collectedAt: 2026-09-11T06:08:12Z
+collectedAt: 2026-09-11T18:55:07Z
 loc:
   Go:
     code: 8144

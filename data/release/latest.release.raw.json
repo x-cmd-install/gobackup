@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11519558,
       "digest": "sha256:d4ec264c2f266742aa370e90a1666535917de0207bd908786823415fce4924c6",
-      "download_count": 538,
+      "download_count": 540,
       "created_at": "2026-07-06T06:34:01Z",
       "updated_at": "2026-07-06T06:34:02Z",
       "browser_download_url": "https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-linux-amd64.tar.gz"

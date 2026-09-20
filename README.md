@@ -4,7 +4,7 @@
 
 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 
-![gobackup](https://repo.x-cmd.io/gobackup.svg)
+[![x-cmd/install — gobackup Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gobackup.svg)](https://x-cmd.com/install/gobackup)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **13,959** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,962 · **Forks**: 332 · **Open issues**: 189 · **Contributors**: 49
+- **Stars**: 2,971 · **Forks**: 334 · **Open issues**: 189 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,959** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 1 | 0 | 1 | 1 | 0 | 3 |
-| last180d | 2026-03-22 | 2 | 1 | 1 | 3 | 2 | 3 |
-| 360d | 2025-09-23 | 5 | 22 | 1 | 16 | 2 | 26 |
-| last720d | 2024-09-28 | 12 | 41 | 1 | 45 | 3 | 49 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 1 | 0 | 1 | 1 | 0 | 3 |
+| last180d | 2026-03-24 | 2 | 1 | 1 | 3 | 1 | 3 |
+| 360d | 2025-09-25 | 5 | 22 | 1 | 16 | 2 | 26 |
+| last720d | 2024-09-30 | 12 | 41 | 1 | 45 | 3 | 49 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for gobackup lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:29:47Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:21:26Z._

@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: gobackup
+  visiblename: gobackup
+  version: 3.1.1
+  origversion: null
+  status: unique
+  summary: CLI tool for backup your databases, files to cloud storages
+- repo: homebrew
+  srcname: gobackup
+  visiblename: gobackup
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool for backup your databases, files to cloud storages

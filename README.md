@@ -38,22 +38,22 @@ Total: **13,959** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,093 · **Forks**: 343 · **Open issues**: 192 · **Contributors**: 49
+- **Stars**: 3,092 · **Forks**: 342 · **Open issues**: 192 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 142 · **Open PRs**: 4 · **Closed issues**: 184 · **Open issues**: 8 · **Commits**: 540
+- **Releases**: 75 · **Merged PRs**: 142 · **Open PRs**: 4 · **Closed issues**: 185 · **Open issues**: 7 · **Commits**: 540
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last180d | 2026-05-23 | 1 | 0 | 4 | 2 | 3 | 3 |
-| 360d | 2025-11-24 | 4 | 19 | 4 | 13 | 5 | 21 |
-| last720d | 2024-11-29 | 12 | 39 | 4 | 40 | 6 | 49 |
+| 30d | 2026-10-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-08-22 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last180d | 2026-05-24 | 1 | 0 | 4 | 2 | 3 | 3 |
+| 360d | 2025-11-25 | 3 | 19 | 4 | 14 | 4 | 21 |
+| last720d | 2024-11-30 | 12 | 39 | 4 | 41 | 5 | 49 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for gobackup lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:16:20Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:00:48Z._

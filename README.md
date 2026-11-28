@@ -48,12 +48,12 @@ Total: **13,959** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 4 | 0 | 4 | 0 |
-| last180d | 2026-05-31 | 1 | 0 | 4 | 1 | 4 | 3 |
-| 360d | 2025-12-02 | 3 | 19 | 4 | 12 | 5 | 21 |
-| last720d | 2024-12-07 | 12 | 39 | 4 | 41 | 6 | 49 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 4 | 0 | 4 | 0 |
+| last180d | 2026-06-01 | 1 | 0 | 4 | 1 | 4 | 3 |
+| 360d | 2025-12-03 | 3 | 19 | 4 | 12 | 5 | 21 |
+| last720d | 2024-12-08 | 12 | 38 | 4 | 41 | 6 | 49 |
 
 ## Release assets
 
@@ -65,6 +65,14 @@ Total: **13,959** lines of code across **117** files in the top 5 languages.
 | [gobackup-linux-arm64.tar.gz](https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup-linux-arm64.tar.gz) | 10.1 MiB | `native/linux/arm64` |
 | [gobackup_3.1.1_checksums.txt](https://github.com/gobackup/gobackup/releases/download/v3.1.1/gobackup_3.1.1_checksums.txt) | 378 B | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/gobackup). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `3.1.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gobackup lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gobackup` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +82,4 @@ Install metadata for gobackup lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:56:18Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:41:11Z._
